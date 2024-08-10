@@ -1,0 +1,6 @@
+modbus:
+  device_1: 10.10.1.107
+  device_1_port: 502
+
+  device_2: 10.10.1.107
+  device_2_port: 5020
